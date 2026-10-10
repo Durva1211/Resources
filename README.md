@@ -1,2 +1,3 @@
 # Resources
-List of all the project resources/results I have worked on so far.
+Hello! 
+Here is a complete compilation of all the projects I've been a part of, uploaded either the final project report or the certification of completion. 
